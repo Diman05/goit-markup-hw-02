@@ -1,0 +1,82 @@
+/* палитра
+основной #212121
+серый #757575
+голубой #2196F3
+белый #FFFFFF
+*/
+body {
+  color: #757575;
+  font-family: Roboto;
+}
+.logo-link {
+  color: #2196f3;
+  font-family: Raleway;
+}
+.logo-accent {
+  color: #212121;
+  font-family: Raleway;
+}
+.site-navigation a {
+  color: #212121;
+  font-family: Roboto;
+}
+.site-navigation a:hover,
+.site-navigation a:focus {
+  color: #2196f3;
+}
+.contacts a {
+  color: #757575;
+  font-family: Roboto;
+}
+.contacts a:hover,
+.contacts a:focus {
+  color: #2196f3;
+}
+.hero {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.button-uslugu {
+  background-color: #2196f3;
+  color: #ffffff;
+  font-family: Roboto;
+}
+.headlinesb h2 {
+  color: #212121;
+  font-family: Roboto;
+}
+.headliness h3 {
+  color: #212121;
+  font-family: Roboto;
+}
+.map-adres {
+  color: #ffffff;
+  font-family: Roboto;
+}
+.address {
+  color: #757575;
+  font-family: Roboto;
+}
+.footer {
+  background-color: #2f303a;
+}
+.buttons-navigation {
+  font-family: #212121;
+  background-color: #f5f4fa;
+}
+.buttons-navigation:hover,
+.buttons-navigation:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.headlinesb-examples h2 {
+  color: #212121;
+  font-family: Roboto;
+}
+.headliness-examples {
+  color: #757575;
+  font-family: Roboto;
+}
+.logo-accent2 {
+  color: #ffffff;
+}
